@@ -1,0 +1,29 @@
+﻿body{
+	margin: auto;
+	align-items: center;
+	text-align: center;
+}
+
+h1{
+	color : blue;
+}
+
+#inputName{
+	margin: 5px;
+	border: 2px solid blue;
+}
+
+.para{
+	color: blueviolet;
+}
+
+.clg-link{
+	margin: 10px;
+	color: cyan;
+	font-size: large;
+}
+
+.branch-opt{
+	padding : 2px;
+	margin: 5px;
+}
